@@ -1,10 +1,15 @@
-﻿bool running = true;
+﻿// Developer: Tory Lawson
+// Date: November 15, 2026
+// Purpose: Provides the main menu and displays employee information.
+
+bool running = true;
 
 while (running)
 {
     Console.WriteLine("\n========================================");
     Console.WriteLine("       EMPLOYEE MANAGEMENT SYSTEM");
     Console.WriteLine("========================================");
+    Console.WriteLine("Week 1 | Inheritance, Composition, and User Interactions | Tory Lawson");
     Console.WriteLine("\nWelcome! Select an option and press Enter.");
 
     Console.WriteLine("\nMAIN MENU");
